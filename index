@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Seguimiento Smart Office DIVAL</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cuadro de Mando Smart Office DIVAL</title>
 </head>
-<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+<body style="margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh;">
   <iframe 
-    title="BI_Seguimiento_SmartOffice_DIVAL" 
-    width="100%" 
-    height="90%" 
-    src="https://app.fabric.microsoft.com/view?r=eyJrIjoiYmUwMTRmMmMtZjIyOC00NTJmLTlhNjktNWYzZTZiMmFkYTFjIiwidCI6IjVkZDExYzk4LTAxYzUtNDQ2Mi1hNDIxLWIwODYwMThmYmMyNSIsImMiOjl9" 
-    frameborder="0" 
-    allowfullscreen="true"
-    style="border: none;">
+    title="BI_Seguimiento_SmartOffice_DIVAL"
+    width="1024"
+    height="1060"
+    src="https://app.fabric.microsoft.com/view?r=eyJrIjoiYmUwMTRmMmMtZjIyOC00NTJmLTlhNjktNWYzZTZiMmFkYTFjIiwidCI6IjVkZDExYzk4LTAxYzUtNDQ2Mi1hNDIxLWIwODYwMThmYmMyNSIsImMiOjl9&pageName=542cf52db8c32963b9d0"
+    frameborder="0"
+    allowfullscreen="true">
   </iframe>
 </body>
 </html>
